@@ -12,15 +12,6 @@
     <orderEntry type="module" module-name="forum" />
     <orderEntry type="module" module-name="laravel5manel" />
     <orderEntry type="module" module-name="cursolaravel5" />
-    <orderEntry type="module-library">
-      <library name="PHP" type="php">
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/24psr4/vendor/composer" />
-        </CLASSES>
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/24psr4/vendor/composer" />
-        </SOURCES>
-      </library>
-    </orderEntry>
+    <orderEntry type="module" module-name="desarrolloweb" />
   </component>
 </module>

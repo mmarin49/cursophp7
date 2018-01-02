@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efbcef5a-a023-42d2-b3ec-0e18a28138cb" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,11 +15,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/24psr4/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+<<<<<<< HEAD
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20_call/index.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,6 +56,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+=======
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../desarrolloweb/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
               <folding />
             </state>
           </provider>
@@ -69,23 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/resources/views/admin/ingredients/index.blade.php" />
-        <option value="$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/resources/views/pizzas/create.blade.php" />
-        <option value="$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/resources/views/admin/ingredients/create.blade.php" />
-        <option value="$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Controllers/Admin/App/Http/Requests.php" />
-        <option value="$PROJECT_DIR$/02variables/index.php" />
-        <option value="$PROJECT_DIR$/03Constantes/index.php" />
-        <option value="$PROJECT_DIR$/04comparaciones/index.php" />
-        <option value="$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Controllers/Admin/PizzaApp/Http/Requests.php" />
-        <option value="$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Controllers/Admin/Requests/IngredientRequest.php" />
-        <option value="$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Controllers/Admin/IngredientController.php" />
-        <option value="$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Requests/IngredientRequest.php" />
-        <option value="$PROJECT_DIR$/05condicionales/index.php" />
-        <option value="$PROJECT_DIR$/06bucles/index.php" />
-        <option value="C:/xampp/htdocs/laravel5.5/forum/.env" />
-        <option value="C:/xampp/htdocs/cursolaravel/.env" />
-        <option value="$PROJECT_DIR$/07Funcions/index.php" />
-        <option value="$PROJECT_DIR$/08Clases/index.php" />
         <option value="$PROJECT_DIR$/09Classes/index.php" />
         <option value="$PROJECT_DIR$/10classesabstractas/index.php" />
         <option value="$PROJECT_DIR$/11Clasesanonimas/index.php" />
@@ -108,6 +103,35 @@
         <option value="$PROJECT_DIR$/24psr4/composer.json" />
         <option value="$PROJECT_DIR$/24psr4/index.php" />
         <option value="$PROJECT_DIR$/24psr4/src/Admin/Blog.php" />
+        <option value="$PROJECT_DIR$/25traits/index.php" />
+        <option value="$PROJECT_DIR$/26fastroute/composer.json" />
+        <option value="$PROJECT_DIR$/26fastroute/index.php" />
+        <option value="$PROJECT_DIR$/27phpdi/composer.json" />
+        <option value="$PROJECT_DIR$/27phpdi/config.php" />
+        <option value="$PROJECT_DIR$/27phpdi/app/bootstrap.php" />
+        <option value="$PROJECT_DIR$/28phpdi/src/Blog/Controller/HomeController.php" />
+        <option value="$PROJECT_DIR$/28phpdi/index.php" />
+        <option value="$PROJECT_DIR$/28phpdi/app/bootstrap.php" />
+        <option value="$PROJECT_DIR$/28phpdi_MEU/app/bootstrap.php" />
+        <option value="$PROJECT_DIR$/28phpdi_MEU/app/config.php" />
+        <option value="$PROJECT_DIR$/29phpdi/src/Blog/Model/ArticleRepository.php" />
+        <option value="$PROJECT_DIR$/29phpdi/src/Blog/Model/Article.php" />
+        <option value="$PROJECT_DIR$/29phpdi/app/config.php" />
+        <option value="$PROJECT_DIR$/29phpdi/src/Blog/Controller/HomeController.php" />
+        <option value="$PROJECT_DIR$/29phpdi/src/Blog/Persistence/InMemoryArticleRepository.php" />
+        <option value="$PROJECT_DIR$/30phpdi/index.php" />
+        <option value="$PROJECT_DIR$/30phpdi/src/Blog/Controller/HomeController.php" />
+        <option value="$PROJECT_DIR$/30phpdi/src/Blog/Views/layout.twig" />
+        <option value="$PROJECT_DIR$/30phpdi/src/Blog/Views/home.twig" />
+        <option value="$PROJECT_DIR$/31configurar_doctrine/composer.json" />
+        <option value="$PROJECT_DIR$/31configurar_doctrine/index.php" />
+        <option value="$PROJECT_DIR$/31configurar_doctrine/app/config.php" />
+        <option value="$PROJECT_DIR$/31configurar_doctrine/src/Application/Controller/HomeController.php" />
+        <option value="$PROJECT_DIR$/32configurar_doctrine_cliparra/src/Application/Models/Entities/User.php" />
+        <option value="$PROJECT_DIR$/33primera_entidad_doctrine/src/Application/Models/Entities/User.php" />
+        <option value="$PROJECT_DIR$/31configurar_doctrine/src/Application/Services/Doctrine.php" />
+        <option value="$PROJECT_DIR$/32configurar_doctrine_cli/cli-config.php" />
+        <option value="$PROJECT_DIR$/../desarrolloweb/index.html" />
       </list>
     </option>
   </component>
@@ -117,11 +141,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
     <include_path>
       <path value="$PROJECT_DIR$/24psr4/vendor/composer" />
     </include_path>
   </component>
+=======
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$USER_HOME$/CodeCursoLaravel5/cursolaravel5/node_modules" />
+    <handled-path value="$USER_HOME$/CodeCursoLaravel5/laravel5manel/node_modules" />
+    <handled-path value="C:/xampp/htdocs/laravel5.5/forum/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
@@ -144,7 +177,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+      <pane id="Scope" />
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,48 +192,70 @@
             <path>
               <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="08Clases" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="32configurar_doctrine_cli" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="24psr4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="32configurar_doctrine_cliparra" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="24psr4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="32configurar_doctrine_cliparra" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="24psr4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="32configurar_doctrine_cliparra" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Application" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="24psr4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="32configurar_doctrine_cliparra" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Models" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="33primera_entidad_doctrine" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="33primera_entidad_doctrine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+      <pane id="Scratches" />
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MAMP\htdocs\cursophp7\33primera_entidad_doctrine\src\Application\Models" />
+      <recent name="C:\MAMP\htdocs\cursophp7\27phpdi\app" />
+      <recent name="C:\MAMP\htdocs\cursophp7" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\MAMP\htdocs\cursophp7" />
     </key>
   </component>
@@ -285,14 +344,32 @@
       <workItem from="1514114022202" duration="632000" />
       <workItem from="1514292597785" duration="6484000" />
       <workItem from="1514369268774" duration="179000" />
+<<<<<<< HEAD
       <workItem from="1514370048653" duration="97000" />
       <workItem from="1514370216184" duration="35000" />
       <workItem from="1514370280767" duration="24000" />
+=======
+      <workItem from="1514370590242" duration="3099000" />
+      <workItem from="1514382930867" duration="9290000" />
+      <workItem from="1514440641236" duration="5780000" />
+      <workItem from="1514460863875" duration="6579000" />
+      <workItem from="1514477433957" duration="1432000" />
+      <workItem from="1514530875642" duration="13193000" />
+      <workItem from="1514630418622" duration="2687000" />
+      <workItem from="1514638809610" duration="2752000" />
+      <workItem from="1514654131073" duration="1645000" />
+      <workItem from="1514669625872" duration="4970000" />
+      <workItem from="1514822592155" duration="1258000" />
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="79534000" />
+=======
+    <option name="totallyTimeSpent" value="132063000" />
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -301,12 +378,17 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281768" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+=======
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -339,83 +421,75 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.149/IngredientPizzaController.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/resources/views/pizzas/create.blade.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Controllers/Admin/IngredientController.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/vendor/laravel/framework/src/Illuminate/Routing/RouteSignatureParameters.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Controllers/AdminController.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Controllers/PizzaController.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.566/IngredientController.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/resources/views/admin/ingredients/create.blade.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Controllers/Admin/App/Http/Requests.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.415/IngredientController.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.149/IngredientPizzaController.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/resources/views/admin/ingredients/index.blade.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/resources/views/pizzas/create.blade.php" />
-    <entry file="file://$PROJECT_DIR$/02variables/index.php">
+    <entry file="file://$PROJECT_DIR$/23dependenciascomposer/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="168">
+          <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03Constantes/index.php">
+    <entry file="file://$PROJECT_DIR$/24psr4/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="63">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Controllers/Admin/PizzaApp/Http/Requests.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Controllers/Admin/Requests/IngredientRequest.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Requests/IngredientRequest.php" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/cursolaravel5/app/Http/Controllers/Admin/IngredientController.php" />
-    <entry file="file://$PROJECT_DIR$/04comparaciones/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05condicionales/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/xampp/htdocs/laravel5.5/forum/.env" />
-    <entry file="file://C:/xampp/htdocs/cursolaravel/.env" />
-    <entry file="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/package.json" />
-    <entry file="file://$PROJECT_DIR$/10classesabstractas/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07Funcions/index.php">
+    <entry file="file://$PROJECT_DIR$/20_call/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
-          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <caret line="39" column="19" lean-forward="false" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06bucles/index.php">
+    <entry file="file://$PROJECT_DIR$/25traits/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        <state relative-caret-position="508">
+          <caret line="43" column="24" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/24psr4/src/Admin/Blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24psr4/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27phpdi/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/12interfaces/index.php" />
     <entry file="file://$PROJECT_DIR$/09Classes/index.php">
+=======
+    <entry file="file://$PROJECT_DIR$/27phpdi/app/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="57" selection-end-column="33" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/27phpdi/app/bootstrap.php">
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/14_GET/index.php" />
     <entry file="file://$PROJECT_DIR$/15_POST/recibe.php" />
     <entry file="file://$PROJECT_DIR$/13excepciones/index.php" />
@@ -428,28 +502,46 @@
     <entry file="file://$PROJECT_DIR$/16namespaces/index.php" />
     <entry file="file://$PROJECT_DIR$/16namespaces/Admin/Usuario.php" />
     <entry file="file://$PROJECT_DIR$/08Clases/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17typehinting/order.txt" />
-    <entry file="file://$PROJECT_DIR$/16namespaces/Admin/Blog.php" />
-    <entry file="file://$PROJECT_DIR$/16namespaces/Blog.php" />
-    <entry file="file://$PROJECT_DIR$/20_call/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="39" column="19" lean-forward="false" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_invoke/index.php">
+=======
+    <entry file="file://$PROJECT_DIR$/27phpdi/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26fastroute/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27phpdi/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28phpdi/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26fastroute/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26fastroute/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -460,33 +552,278 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23dependenciascomposer/index.php">
+    <entry file="file://$PROJECT_DIR$/28phpdi/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        <state relative-caret-position="0">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24psr4/index.php">
+    <entry file="file://$PROJECT_DIR$/28phpdi/app/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28phpdi_MEU/app/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28phpdi/app/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28phpdi_MEU/app/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28phpdi/src/Blog/Controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29phpdi/app/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29phpdi/src/Blog/Controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29phpdi/src/Blog/Model/ArticleRepository.php">
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/17typehinting/order.txt" />
+    <entry file="file://$PROJECT_DIR$/16namespaces/Admin/Blog.php" />
+    <entry file="file://$PROJECT_DIR$/16namespaces/Blog.php" />
+    <entry file="file://$PROJECT_DIR$/20_call/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="39" column="19" lean-forward="false" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding />
+=======
+    <entry file="file://$PROJECT_DIR$/29phpdi/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29phpdi/src/Blog/Persistence/InMemoryArticleRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30phpdi/app/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29phpdi/src/Blog/Model/Article.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30phpdi/src/Blog/Views/layout.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30phpdi/src/Blog/Model/Article.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30phpdi/src/Blog/Views/home.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30phpdi/src/Blog/Model/ArticleRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30phpdi/src/Blog/Persistence/InMemoryArticleRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30phpdi/src/Blog/Controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30phpdi/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="75" lean-forward="false" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32configurar_doctrine_cli/app/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31configurar_doctrine/app/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="120">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding />
+=======
+        <state relative-caret-position="84">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24psr4/composer.json">
+    <entry file="file://$PROJECT_DIR$/32configurar_doctrine_cli/app/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="90">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 3a1a39d83c281e1d73d54316d3bf9e5a69c92ab7
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24psr4/src/Admin/Blog.php">
+    <entry file="file://$PROJECT_DIR$/33primera_entidad_doctrine/app/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33primera_entidad_doctrine/vendor/bin/doctrine.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32configurar_doctrine_cli/vendor/bin/doctrine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31configurar_doctrine/vendor/bin/doctrine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33primera_entidad_doctrine/vendor/bin/doctrine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33primera_entidad_doctrine/src/Application/Models/Entities/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="107" column="5" lean-forward="false" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31configurar_doctrine/src/Application/Controller/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31configurar_doctrine/src/Application/Services/Doctrine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="e#122#146#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31configurar_doctrine/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="45" lean-forward="false" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31configurar_doctrine/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32configurar_doctrine_cli/cli-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#51#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../desarrolloweb/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding />
         </state>
       </provider>
