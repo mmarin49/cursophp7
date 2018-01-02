@@ -8,5 +8,5 @@ class Blog
 }
 
 $blog= new Blog();
-$blog("Super Blog");
+$blog("Super Application");
 var_dump(is_callable($blog));

@@ -8,6 +8,6 @@ class Blog
 {
     public function __construct()
     {
-        echo "Admin/Blog";
+        echo "Admin/Application";
     }
 }
