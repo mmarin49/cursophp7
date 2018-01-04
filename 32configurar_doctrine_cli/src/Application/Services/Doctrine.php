@@ -1,4 +1,4 @@
-<?php
+cd<?php
 /**
  * Created by PhpStorm.
  * User: Manel
@@ -44,6 +44,7 @@ class Doctrine
         $config->setProxyNamespace('Application\Models\Proxies');
 
         $connectionOptions = [
+            "DB_HOST"       =>      "localhost",
             "driver"        =>      "pdo_mysql",
             "user"          =>      "root",
             "password"      =>      "root",

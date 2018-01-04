@@ -45,8 +45,8 @@ class Doctrine
 
         $connectionOptions = [
             "driver"        =>      "pdo_mysql",
-            "user"          =>      "root",
-            "password"      =>      "root",
+            "user"          =>      "manel",
+            "password"      =>      "manel",
             "dbname"        =>      "doctrinedb"
         ];
 
