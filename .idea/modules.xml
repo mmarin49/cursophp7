@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/CodeCursoLaravel5/cursolaravel5/.idea/cursolaravel5.iml" filepath="$USER_HOME$/CodeCursoLaravel5/cursolaravel5/.idea/cursolaravel5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cursophp7.iml" filepath="$PROJECT_DIR$/.idea/cursophp7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../desarrolloweb/.idea/desarrolloweb.iml" filepath="$PROJECT_DIR$/../desarrolloweb/.idea/desarrolloweb.iml" />
-      <module fileurl="file://C:/xampp/htdocs/laravel5.5/forum/.idea/forum.iml" filepath="C:/xampp/htdocs/laravel5.5/forum/.idea/forum.iml" />
-      <module fileurl="file://$USER_HOME$/CodeCursoLaravel5/laravel5manel/.idea/laravel5manel.iml" filepath="$USER_HOME$/CodeCursoLaravel5/laravel5manel/.idea/laravel5manel.iml" />
     </modules>
   </component>
 </project>

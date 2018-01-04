@@ -7,38 +7,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="cursolaravel5" />
-    <orderEntry type="module" module-name="cursolaravel5" />
-    <orderEntry type="module" module-name="forum" />
-    <orderEntry type="module" module-name="laravel5manel" />
-    <orderEntry type="module" module-name="cursolaravel5" />
-    <orderEntry type="module" module-name="desarrolloweb" />
     <orderEntry type="module-library">
-<<<<<<< HEAD
       <library name="PHP" type="php">
         <CLASSES>
           <root url="file://$MODULE_DIR$/24psr4/vendor/composer" />
         </CLASSES>
         <SOURCES>
           <root url="file://$MODULE_DIR$/24psr4/vendor/composer" />
-=======
-      <library name="PHARS">
-        <CLASSES>
-          <root url="phar://$MODULE_DIR$/27phpdi/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/29phpdi/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/31configurar_doctrine/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/28phpdi_MEU/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/30phpdi/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/32configurar_doctrine_cli/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-        </CLASSES>
-        <SOURCES>
-          <root url="phar://$MODULE_DIR$/27phpdi/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/29phpdi/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/31configurar_doctrine/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/28phpdi_MEU/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/30phpdi/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/32configurar_doctrine_cli/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
->>>>>>> 9db54ba2f213981c4c8218c3c45ead3089cc3aca
         </SOURCES>
       </library>
     </orderEntry>
