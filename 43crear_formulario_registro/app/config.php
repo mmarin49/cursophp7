@@ -1,5 +1,5 @@
 <?php
-use function DI\object;
+use function DI\obnject;
 
 return [
     Twig_Environment::class => function()
