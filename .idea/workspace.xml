@@ -2,7 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fe7039d-6abb-48f7-b025-aa1152508224" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/43crear_formulario_registro/app/config.php" afterPath="$PROJECT_DIR$/43crear_formulario_registro/app/config.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/.coveralls.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/.gitattributes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/.phpstorm.meta.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/404.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/benchmarks/DI/ContainerBench.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/change-log.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/couscous.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/phpbench.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/phpunit.xml.dist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Annotation/Inject.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Annotation/Injectable.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Cache/ArrayCache.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Container.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/ContainerBuilder.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Debug.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/AliasDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/ArrayDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/ArrayDefinitionExtension.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/CacheableDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/DecoratorDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Definition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Dumper/ObjectDefinitionDumper.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/EntryReference.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/EnvironmentVariableDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Exception/AnnotationException.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Exception/DefinitionException.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/FactoryDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/HasSubDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Helper/ArrayDefinitionExtensionHelper.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Helper/DefinitionHelper.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Helper/EnvironmentVariableDefinitionHelper.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Helper/FactoryDefinitionHelper.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Helper/ObjectDefinitionHelper.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Helper/StringDefinitionHelper.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Helper/ValueDefinitionHelper.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/InstanceDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/ObjectDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/ObjectDefinition/MethodInjection.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/ObjectDefinition/PropertyInjection.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Resolver/ArrayResolver.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Resolver/DecoratorResolver.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Resolver/DefinitionResolver.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Resolver/EnvironmentVariableResolver.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Resolver/FactoryResolver.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Resolver/InstanceInjector.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Resolver/ObjectCreator.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Resolver/ParameterResolver.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Resolver/ResolverDispatcher.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Resolver/SelfResolver.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/SelfResolvingDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Source/AnnotationReader.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Source/Autowiring.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Source/CachedDefinitionSource.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Source/DefinitionArray.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Source/DefinitionFile.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Source/DefinitionSource.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Source/MutableDefinitionSource.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/Source/SourceChain.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/StringDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Definition/ValueDefinition.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/DependencyException.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Factory/RequestedEntry.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/FactoryInterface.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Invoker/DefinitionParameterResolver.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Invoker/FactoryParameterResolver.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/InvokerInterface.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/NotFoundException.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Proxy/ProxyFactory.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/Scope.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/php-di/src/DI/functions.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/43crear_formulario_registro/vendor/php-di/invoker/src/Exception/NotEnoughParametersException.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -129,13 +206,52 @@
             <path>
               <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="28phpdi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="30phpdi" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="28phpdi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="30phpdi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="30phpdi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php-di" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="30phpdi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php-di" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php-di" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="30phpdi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php-di" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php-di" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="30phpdi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php-di" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php-di" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DI" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cursophp7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursophp7" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="43crear_formulario_registro" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -150,6 +266,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MAMP\htdocs\cursophp7\43crear_formulario_registro" />
       <recent name="C:\MAMP\htdocs\cursophp7" />
     </key>
   </component>
@@ -186,18 +303,17 @@
       <workItem from="1515831080383" duration="2487000" />
       <workItem from="1515864391770" duration="268000" />
       <workItem from="1516464726057" duration="9897000" />
-      <workItem from="1516525771437" duration="655000" />
+      <workItem from="1516525771437" duration="1363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22364000" />
+    <option name="totallyTimeSpent" value="23072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2803437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2803437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
