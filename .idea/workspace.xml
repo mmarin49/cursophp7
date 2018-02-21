@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fe7039d-6abb-48f7-b025-aa1152508224" name="Default" comment="fins video 51">
-      <change beforePath="" afterPath="$PROJECT_DIR$/54trabajo_ramas_github/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/54trabajo_ramas_github/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/54trabajo_ramas_github/git" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/54trabajo_ramas_github/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/54trabajo_ramas_github/secret" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/53gitignore/index.php" afterPath="$PROJECT_DIR$/53gitignore/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -206,12 +200,12 @@
       <workItem from="1518877092460" duration="592000" />
       <workItem from="1518966497317" duration="498000" />
       <workItem from="1519060960443" duration="777000" />
-      <workItem from="1519191442571" duration="773000" />
+      <workItem from="1519191442571" duration="892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59950000" />
+    <option name="totallyTimeSpent" value="60069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
