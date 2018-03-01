@@ -1,0 +1,21 @@
+{% extends 'bootstrap.twig' %}
+
+{% block content %}
+    <div class="container">
+        {% if error !="" %}
+            <p class="text-danger">{{ errors }}</p>
+        {% endif %}
+
+        {% if success !="" %}
+            <p class="text-success">{{ success }}</p>
+        {% endif %}
+
+        <div class="card card-container">
+            <h2 class="text-center text-muted">subir archivos con php</h2>
+            <form class="form-signin" method="post" action="http://localhost:5000/upload_files" enctype="multipart/form-data">
+                <input type="file" name="file">
+                <button class="btn btn-lg btn-primary btn-block btn-signin" name="submit" type="submit">Upload file</button>
+            </form>
+        </div>
+    </div>
+{% endblock %}

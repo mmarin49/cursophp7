@@ -1,5 +1,6 @@
 <?php
-
+error_reporting(E_ALL);
+ini_set('display_errors', '1');
 use FastRoute\RouteCollector;
 $container = require __DIR__ . "/app/bootstrap.php";
 
